@@ -1,0 +1,6 @@
+5.4.0f3:2.0.0.0
+Android
+D:/Program Files (x86)/Unity_5_4_0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Program Files (x86)/Unity_5_4_0/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Program Files (x86)/Unity_5_4_0/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/Program Files (x86)/Unity_5_4_0/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
